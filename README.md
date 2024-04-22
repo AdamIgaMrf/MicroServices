@@ -1,7 +1,7 @@
 <h3>TP 3</h3>
 
 
-<h1> Microservices screenshot:</h1>
+<h1> Microservices </h1>
 
 
 <ul>
@@ -13,7 +13,7 @@
 
 
 <li>Product Entity </li>
-<img src="capture/ProductEnt.png">
+    <img src="capture/ProductEnt.PNG">
 
 
 
