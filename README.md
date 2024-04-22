@@ -18,11 +18,12 @@
 
 
 <li>Customer Entity </li>
-<img src="capture/billingservice.png">
+<img src="capture/CustomerEnt.PNG">
 
 
 <li>Billing service </li>
-<img src="capture/CustomerEnt.PNG">
+<img src="capture/billingservice.png">
+
 
 
 
